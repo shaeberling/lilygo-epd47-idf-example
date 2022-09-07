@@ -1,0 +1,3 @@
+[submodule "components/lilygo-epd47-idf"]
+	path = components/lilygo-epd47-idf
+	url = https://github.com/shaeberling/lilygo-epd47-idf
